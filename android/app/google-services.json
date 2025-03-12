@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477376322198",
+    "project_id": "pro-tech-app-29e61",
+    "storage_bucket": "pro-tech-app-29e61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477376322198:android:d82e4b825b496c02bb80b7",
+        "android_client_info": {
+          "package_name": "com.example.pro_tech_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jkNrx89FjYJssximwxCLb4POt-uKjiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
